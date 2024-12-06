@@ -1,0 +1,85 @@
+{
+  "orders": [
+    {
+      "name": "Шварц Альберт",
+      "phone": "+79099998876",
+      "email": "test6@mail.com",
+      "product": "course-js",
+      "status": "new",
+      "date": "03.12.2024, 22:11:54",
+      "id": 1
+    },
+    {
+      "name": "Ким Александр",
+      "phone": "+79099998872",
+      "email": "test7@mail.com",
+      "product": "course-php",
+      "status": "complete",
+      "date": "03.12.2024, 22:11:54",
+      "id": 2
+    },
+    {
+      "name": "Сидоров Иван",
+      "phone": "+79099998871",
+      "email": "test4@mail.com",
+      "product": "course-wordpress",
+      "status": "inwork",
+      "date": "04.12.2024, 22:58:49",
+      "id": 3
+    },
+    {
+      "name": "Макушева Василиса",
+      "phone": "+79099998874",
+      "email": "test2@mail.com",
+      "product": "course-vue",
+      "status": "inwork",
+      "date": "06.12.2024, 22:18:34",
+      "id": 4
+    },
+    {
+      "name": "Макушева Василиса",
+      "phone": "+79099998875",
+      "email": "test3@mail.com",
+      "product": "course-js",
+      "status": "new",
+      "date": "06.12.2024, 22:18:34",
+      "id": 5
+    },
+    {
+      "name": "Шварц Альберт",
+      "phone": "+79099998873",
+      "email": "test1@mail.com",
+      "product": "course-vue",
+      "status": "new",
+      "date": "06.12.2024, 22:47:00",
+      "id": 6
+    },
+    {
+      "name": "Шварц Альберт",
+      "phone": "+79099998871",
+      "email": "test9@mail.com",
+      "product": "course-vue",
+      "status": "new",
+      "date": "06.12.2024, 22:47:07",
+      "id": 7
+    },
+    {
+      "name": "Худратов Исмаил",
+      "phone": "+79099998879",
+      "email": "test7@mail.com",
+      "product": "course-html",
+      "status": "inwork",
+      "date": "06.12.2024, 22:47:07",
+      "id": 8
+    },
+    {
+      "name": "Кисаев Артур",
+      "phone": "+79099998879",
+      "email": "test1@mail.com",
+      "product": "course-vue",
+      "status": "inwork",
+      "date": "06.12.2024, 22:49:56",
+      "id": 9
+    }
+  ]
+}
